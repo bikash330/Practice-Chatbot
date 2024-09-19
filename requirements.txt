@@ -1,0 +1,17 @@
+langchain_groq
+langchain_core #provide the base abstractions that power the rest of the LangChain ecosystem
+python-dotenv #reads key-value pairs from a .env file
+streamlit #creating front-end
+langchain_community #for mem
+langserve #helps developers deploy LangChain runnables and chains as a REST API
+fastapi
+uvicorn
+sse_starlette
+pypdf
+faiss-cpu
+tiktoken
+openai
+langchain_openai
+langchain_chroma
+google-generativeai
+langchain_google_genai
